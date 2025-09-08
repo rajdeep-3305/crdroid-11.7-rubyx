@@ -36,7 +36,7 @@ Built on **Android 15 QPR2**.
 
 ## 📖 Flashing Guide
 
-See the full [Flashing Guide](./ FLASHING_GUIDE.md).
+See the full [Flashing Guide](./FLASHING_GUIDE.md).
 ---
 
 ## 🔄 Changelog
