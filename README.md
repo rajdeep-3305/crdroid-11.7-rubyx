@@ -20,7 +20,8 @@ Built on **Android 15 QPR2**.
 
 ## 📥 Downloads
 
-- [ROM + boot.img Download](https://drive.google.com/file/d/1e8xwXPD7_7hHF1hphBAyF5pUNfU9wxYp/view?usp=drive_link)  
+- [ROM Download](https://drive.google.com/file/d/1e8xwXPD7_7hHF1hphBAyF5pUNfU9wxYp/view?usp=drive_link)
+- [boot.img](https://drive.google.com/file/d/1hkMdSml9hzvZFfmIBvNplspWBRr3zVs6/view?usp=drivesdk)
 - [GApps](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/16-Jul-2025/NikGapps-crdroid-official-arm64-15-20250716-signed.zip/download) 
 
 ---
